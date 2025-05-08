@@ -62,7 +62,7 @@ head(kw_comp, 10)
 ```
 
 {{% notice tip %}}
-You can discover muti-words expressions in your tokens using `textstat_collocations()`. See [Compunding multi-word expressions](../../../advanced-operations/compound-mutiword-expressions/) to learn how to do it.
+You can discover muti-words expressions in your tokens using `textstat_collocations()`. See [Compounding multi-word expressions](../../../advanced-operations/compound-mutiword-expressions/) to learn how to do it.
 {{% /notice %}}
 
 
